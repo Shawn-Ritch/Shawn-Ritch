@@ -4,7 +4,7 @@
 - 🌱 I spend a lot of time learning more stuff
 - 👯 Always looking to collaborate on something lol
 - 🤔 Presently looking for help with the CMS I developed
-- ⚡ Fun fact: I'm as crazy as a loon ;)
+- ⚡ Fun fact: I am ### crazy 😉
 
 <!--
 - 💬 Ask me about ...
