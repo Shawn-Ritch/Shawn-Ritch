@@ -1,16 +1,16 @@
 # Hello, I'm Shawn RItch 👋
 
-- 🔭 I’m currently working on Improving my skills
-- 🌱 I spend a lot of time learning more stuff
-- 👯 Always looking to collaborate on something lol
-- 🤔 Presently looking for help with the CMS I developed
+- 🔭 Presently looking to work with a development team
+- 👯 Always looking to collaborate on something
+- 🌱 Spend a lot of time Improving my skills
 - ⚡ Fun fact: I am crazy 😉
 
 ## View My Porfolio And Projects
 https://shawn-ritch.github.io/portfolio/
 
+- 📫 Email: sr@webdeveloprz.com
+
 <!--
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
