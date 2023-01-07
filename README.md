@@ -2,5 +2,5 @@
 
 - ⚡ Fun fact: I'm crazy 😉
 
-## View My Porfolio And Projects
+## Check Out My Porfolio ...
 https://shawn-ritch.github.io/portfolio/
